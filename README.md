@@ -1,2 +1,2 @@
 # PHP/MySQL blogi
-## antud projekt on loodud projekteerimisvahendite aine raames 
+### Antud projekt on loodud projekteerimisvahendite aine raames 
