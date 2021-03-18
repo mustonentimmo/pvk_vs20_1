@@ -32,4 +32,5 @@ class Page
         $this->db->query('SELECT * FROM users');
         return $this->db->getAll();
     }
+
 }
